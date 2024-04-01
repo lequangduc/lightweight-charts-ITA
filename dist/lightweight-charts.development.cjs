@@ -1,6 +1,6 @@
 /*!
  * @license
- * TradingView Lightweight Charts™ v4.1.3-dev+202403291837
+ * TradingView Lightweight Charts™ v4.1.3-dev+202404010147
  * Copyright (c) 2024 TradingView, Inc.
  * Licensed under Apache License 2.0 https://www.apache.org/licenses/LICENSE-2.0
  */
@@ -13248,7 +13248,7 @@ const customSeriesDefaultOptions = Object.assign(Object.assign({}, seriesOptions
  * Returns the current version as a string. For example `'3.3.0'`.
  */
 function version() {
-    return "4.1.3-dev+202403291837";
+    return "4.1.3-dev+202404010147";
 }
 
 exports.createChart = createChart;
